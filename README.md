@@ -18,7 +18,6 @@
   
  ## Redes sociais:
  <div>   
-  <img align="left" alt="wolff-illustration" height="150" style="border-radius:50px;" src="https://i.imgur.com/ITtUg2m.jpeg">
 
   <div style="margin-left: 30px;">
    <a href="https://www.linkedin.com/in/wolffjunior/" target="_blank">
