@@ -1,4 +1,4 @@
-# Olá estranho, bem vindo!
+# Olá estranho(a), bem vindo!
 ## Me chamo José Carlos Wolff e atualmente sou um desenvolvedor Front-End :desktop_computer: 🎨
  
 
